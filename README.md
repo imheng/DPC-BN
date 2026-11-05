@@ -43,4 +43,20 @@ The functions `step1_distances` through `step7_result` correspond to these steps
 
 The number of clusters is a required hyperparameter, not automatically estimated. This dense implementation uses quadratic memory and is intended for small to medium datasets. Short-edge bridges between groups can cause clustering failures. Python with the GIL enabled or disabled can run the code; no free-threading speedup is claimed.
 
-Dataset files and unpublished manuscript materials are not included. No license has yet been selected.
+Dataset files and the manuscript text are not included. No license has yet been selected.
+
+## Figures from the manuscript
+
+### Overall comparison
+
+![DPC and DPC-BN comparison across 73 datasets](figures/overview.svg)
+
+Primary results on 73 distinct synthetic datasets, excluding Jain and exact duplicates. Both algorithms use supplied cluster counts and the same Gaussian density. Left: paired ARI scores. Right: ARI differences, including gains and losses, sorted by improvement.
+
+### Component ablation
+
+![Four-way ablation of center selection and assignment](figures/ablation.svg)
+
+Mean ARI across the same 73 datasets: original DPC 0.5727; center selection only 0.5231; assignment only 0.6732; both changes (DPC-BN) 0.7444. Density and supplied cluster counts remain fixed.
+
+Both figures are provided in scalable SVG format.
