@@ -47,6 +47,12 @@ Dataset files and the manuscript text are not included.
 
 ## Figures from the manuscript
 
+### Introduction
+
+![DPC and DPC-BN algorithm comparison with Jain](figures/jain_comparison.svg)
+
+Clustering on the Jain dataset Jain. Left: reference labels. Center: Gaussian DPC, whose two representatives (black stars) both lie on the denser arc, splitting that arc and merging the sparser one (ARI 0.6438). Right: DPC-BN places one center on each arc (ARI 0.9887). Colors denote partition labels aligned to the reference for display only; original coordinates are shown.
+
 ### Overall comparison
 
 ![DPC and DPC-BN comparison across 73 datasets](figures/overview.svg)
