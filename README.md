@@ -65,6 +65,26 @@ Primary results on 73 distinct synthetic datasets, excluding Jain and exact dupl
 
 Mean ARI across the same 73 datasets: original DPC 0.5727; center selection only 0.5231; assignment only 0.6732; both changes (DPC-BN) 0.7444. Density and supplied cluster counts remain fixed.
 
+### Center selection and allocation interact
+
+![Twelve favorable case studies](figures/top12_page1.svg)
+
+Selected favorable examples, group 1. Ground truth, operational DPC, and DPC-BN are compared. These are post hoc illustrations selected by ARI gain, not a representative sample of all outcomes. Black stars mark selected centers; colors denote partition labels and do not enter computation. Each center retains its own label.
+
+![Twelve favorable case studies](figures/top12_page2.svg)
+
+Selected favorable examples, group 2. Parameters are unchanged from the primary benchmark. Black stars mark centers and colors denote partition labels.
+
+![Twelve favorable case studies](figures/top12_page3.svg)
+
+Selected favorable examples, group 3. Three-dimensional data are displayed in three dimensions where applicable. Black stars indicate selected centers, and colors denote partition labels for visualization only.
+
+### Density-scale sensitivity
+
+![Density-scale sensitivity](figures/failures.svg)
+
+Failure examples retained in the main evidence record. Large losses demonstrate that the proposed coupling is not uniformly beneficial. Columns show reference labels, DPC, and DPC-BN; black stars mark selected centers and colors denote partition labels.
+
 Both figures are provided in scalable SVG format.
 
 
