@@ -1,0 +1,1950 @@
+[
+  {
+    "file": "2-cluster.mat",
+    "n": 610,
+    "d": 2,
+    "C": 2,
+    "labels": [
+      1,
+      2
+    ],
+    "counts": [
+      308,
+      302
+    ],
+    "transposed": false,
+    "sha256": "0f1449436a7dd0916f4c57c188342bb3c0e15855d392c0635d7c2c953ce71e75",
+    "content_hash": "fc682de708a8308c1fab05d925d4c7c91c05fcc6fb45fc7db41b2e7bc194081b",
+    "duplicate_of": null
+  },
+  {
+    "file": "2circles.mat",
+    "n": 600,
+    "d": 2,
+    "C": 2,
+    "labels": [
+      1,
+      2
+    ],
+    "counts": [
+      300,
+      300
+    ],
+    "transposed": false,
+    "sha256": "5a39c98b7729381d17cb1226cb2e03c7acb4118e5f906bc055b72454379b2ae9",
+    "content_hash": "1a80411f458451d19ac17d4746273f85cadecbf16c7e8c0f3cabfc2638617b42",
+    "duplicate_of": null
+  },
+  {
+    "file": "2circles_noise.mat",
+    "n": 634,
+    "d": 2,
+    "C": 3,
+    "labels": [
+      1,
+      2,
+      3
+    ],
+    "counts": [
+      309,
+      305,
+      20
+    ],
+    "transposed": false,
+    "sha256": "0db5e7d4f7bf430c75374c9d911497760ec19f9b2589b105d3cf08a561e66c6e",
+    "content_hash": "865ea61024a66788da38452cadd0822cd3813d4cfe08e2662c217e4332e9a27d",
+    "duplicate_of": null
+  },
+  {
+    "file": "2d-10c.mat",
+    "n": 2990,
+    "d": 2,
+    "C": 9,
+    "labels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9
+    ],
+    "counts": [
+      160,
+      497,
+      470,
+      134,
+      338,
+      294,
+      436,
+      567,
+      94
+    ],
+    "transposed": false,
+    "sha256": "f852714e7edac4337d0c7d766e441587692e93799c5cda25e0084d064e590482",
+    "content_hash": "01b7c4ad899fc1f6f6a2377d43fcc3375329d7135cddf71ea4f2a0c9e1c19527",
+    "duplicate_of": null
+  },
+  {
+    "file": "2d-20c-no0.mat",
+    "n": 1517,
+    "d": 2,
+    "C": 20,
+    "labels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "counts": [
+      106,
+      97,
+      43,
+      70,
+      85,
+      50,
+      85,
+      108,
+      65,
+      108,
+      33,
+      103,
+      23,
+      71,
+      88,
+      85,
+      84,
+      75,
+      53,
+      85
+    ],
+    "transposed": false,
+    "sha256": "3155c91d2f081dafa8e2f81588633af36b2924a4ca2dc46fd1cc4cfb0ae92272",
+    "content_hash": "197d2bdefc6e781ab2b4caffbefb5fdc96dc85df524dda76c504f37757b3109f",
+    "duplicate_of": null
+  },
+  {
+    "file": "2d-3c-no123.mat",
+    "n": 715,
+    "d": 2,
+    "C": 3,
+    "labels": [
+      0,
+      1,
+      2
+    ],
+    "counts": [
+      264,
+      370,
+      81
+    ],
+    "transposed": false,
+    "sha256": "fbb3298bc9ae70abddeb11155f86316cb64b318822c1a091674eacacc7ec3833",
+    "content_hash": "0c51d8cdc973aa6a7a3d6cb0a027e85a62f6b76474feb6feb360c5a50eae2ef3",
+    "duplicate_of": null
+  },
+  {
+    "file": "2d-4c-no4.mat",
+    "n": 863,
+    "d": 2,
+    "C": 4,
+    "labels": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "counts": [
+      421,
+      86,
+      294,
+      62
+    ],
+    "transposed": false,
+    "sha256": "458f18bb23d4daba7bc635c43b67641b8c7d5c5c17c6e7614f61376b331b308c",
+    "content_hash": "e3de75a0abbf1483563470d2043212b817f36bbbdc44b469f9e6ba144ebc7483",
+    "duplicate_of": null
+  },
+  {
+    "file": "2d-4c-no9.mat",
+    "n": 876,
+    "d": 2,
+    "C": 4,
+    "labels": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "counts": [
+      219,
+      244,
+      312,
+      101
+    ],
+    "transposed": false,
+    "sha256": "a3fe1c385b3d96fc46bbed094537182c3e2c5d7f76e96a88a91c5add6c3f5c46",
+    "content_hash": "3b73560ee18827e54c0c097fe7f2911e531abbecedc460eb64263ed5d8d7ba76",
+    "duplicate_of": null
+  },
+  {
+    "file": "2d-4c.mat",
+    "n": 1261,
+    "d": 2,
+    "C": 4,
+    "labels": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "counts": [
+      160,
+      497,
+      470,
+      134
+    ],
+    "transposed": false,
+    "sha256": "47bf8dfba32e50234f6d4d348d2b3fd81a51ea7f5e48ad9730e1ef4acb097f56",
+    "content_hash": "9245c6468df681a516e7c707f62236bd7183ddc2f21203542a6aa76dba444e34",
+    "duplicate_of": null
+  },
+  {
+    "file": "2dnormals.mat",
+    "n": 1000,
+    "d": 2,
+    "C": 2,
+    "labels": [
+      1,
+      2
+    ],
+    "counts": [
+      518,
+      482
+    ],
+    "transposed": false,
+    "sha256": "03e65d05cde6e850cab165ff7cb101257e1a251cfac5fb4159e41092c85cdc3a",
+    "content_hash": "8f08e97644e68a5acef358cf07868d38ea16deadd5779ef5b62d05713a65acbf",
+    "duplicate_of": null
+  },
+  {
+    "file": "2sp2glob.mat",
+    "n": 2000,
+    "d": 2,
+    "C": 4,
+    "labels": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "counts": [
+      500,
+      500,
+      500,
+      500
+    ],
+    "transposed": false,
+    "sha256": "1b9c812dd93122f345433c50780ca130a61b48b6988759801ae48c7d4a688f19",
+    "content_hash": "de482bf630852d29b814777b4134c089b219f01b260628bf5a61c607760017d5",
+    "duplicate_of": null
+  },
+  {
+    "file": "2spiral.mat",
+    "n": 1000,
+    "d": 2,
+    "C": 2,
+    "labels": [
+      0,
+      1
+    ],
+    "counts": [
+      500,
+      500
+    ],
+    "transposed": false,
+    "sha256": "1f8f05ce7c5df333c9605114120cbb2ed655e36d6706e20b44336462b00b047d",
+    "content_hash": "bfcf1097e4ef41efe95c30e76e88558986f260b817c35ec16e858a60451f35fd",
+    "duplicate_of": null
+  },
+  {
+    "file": "3MC.mat",
+    "n": 400,
+    "d": 2,
+    "C": 3,
+    "labels": [
+      1,
+      2,
+      3
+    ],
+    "counts": [
+      120,
+      170,
+      110
+    ],
+    "transposed": false,
+    "sha256": "8ce57b64132e1e691b1172ad192cb4ca2336f1c8431c26a234100bc78006c60e",
+    "content_hash": "218bb20ba689513ea775e3443be9402d9b0aa0439167cb32f793f223499d41a5",
+    "duplicate_of": null
+  },
+  {
+    "file": "Aggregation.mat",
+    "n": 788,
+    "d": 2,
+    "C": 7,
+    "labels": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "counts": [
+      45,
+      170,
+      102,
+      273,
+      34,
+      130,
+      34
+    ],
+    "transposed": false,
+    "sha256": "b55b245c3e7581be63221acc1bd22890e89484a9bb4099ecf2cc872037bb939c",
+    "content_hash": "2f3b230b8d383ebe0ff40f8e3135cc28a079cb96087962eb54d06fc726cf96ef",
+    "duplicate_of": null
+  },
+  {
+    "file": "Compound.mat",
+    "n": 399,
+    "d": 2,
+    "C": 6,
+    "labels": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      200
+    ],
+    "counts": [
+      158,
+      92,
+      39,
+      44,
+      16,
+      50
+    ],
+    "transposed": false,
+    "sha256": "1c955691ed1d3b52376d0baa350f1811c70d1ed1c5e1c797eb92f0a0bb949d15",
+    "content_hash": "66e2ae6ad6cb4f441b68455f593cef76154923b915525e611880ca88a70b93a3",
+    "duplicate_of": null
+  },
+  {
+    "file": "D1.mat",
+    "n": 87,
+    "d": 2,
+    "C": 3,
+    "labels": [
+      1,
+      2,
+      3
+    ],
+    "counts": [
+      37,
+      20,
+      30
+    ],
+    "transposed": false,
+    "sha256": "5b4df1f23fac40ffd2c47ba0742ba08476aaf27ac2f00db2f42b4a9c164676dd",
+    "content_hash": "5f290e9457e7422d6dc9a1215e492579f5eb86007a57a27c56534ceca9ab939d",
+    "duplicate_of": null
+  },
+  {
+    "file": "D13.mat",
+    "n": 588,
+    "d": 2,
+    "C": 13,
+    "labels": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "counts": [
+      108,
+      24,
+      27,
+      73,
+      32,
+      49,
+      33,
+      40,
+      28,
+      24,
+      32,
+      71,
+      47
+    ],
+    "transposed": false,
+    "sha256": "e7ec3b8f14a0dd32d9dc06ab008923476fafb00c6dc1c49f906d9d2e03874634",
+    "content_hash": "4cc37eabdd02345ef2cb14887a528f52ac9d78bb8b3c536ac216ac3e01744882",
+    "duplicate_of": null
+  },
+  {
+    "file": "D2.mat",
+    "n": 85,
+    "d": 2,
+    "C": 4,
+    "labels": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "counts": [
+      21,
+      22,
+      21,
+      21
+    ],
+    "transposed": false,
+    "sha256": "1bd028c767ff1a759cb5f35622eab579a5ce2fbcf0eade8016dde4a2b4eb0e96",
+    "content_hash": "55069655601a180c6dfb85c4c1dc2bbe7e7dff5d5f34ceff022f1662f042aa94",
+    "duplicate_of": null
+  },
+  {
+    "file": "D31.mat",
+    "n": 3100,
+    "d": 2,
+    "C": 31,
+    "labels": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "counts": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "transposed": false,
+    "sha256": "e7ec25fd9af71f85c59925fde0eab578e7cec7864cb6f24e81e1a00fa4a1d886",
+    "content_hash": "9bf3406b73e593aed46ce0078312ced118b75f96189b89da85ca03b05371f946",
+    "duplicate_of": null
+  },
+  {
+    "file": "DS5.mat",
+    "n": 500,
+    "d": 2,
+    "C": 5,
+    "labels": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "counts": [
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "transposed": false,
+    "sha256": "84dfed73870a8563cec6aeb8babb2f5460383cd017d310d1d23aac1a893422d7",
+    "content_hash": "db6ca535aa2042fa94b141744f299fd1065efa4499ee890a0d84cef4f8780bb9",
+    "duplicate_of": null
+  },
+  {
+    "file": "DS6.mat",
+    "n": 800,
+    "d": 2,
+    "C": 4,
+    "labels": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "counts": [
+      84,
+      160,
+      248,
+      308
+    ],
+    "transposed": false,
+    "sha256": "be17c2bb4c3a77859e280b43cc8aeaf35740d6a6e8110664a6fb5e6d1744d4ea",
+    "content_hash": "c9328e9bc5ad1a594440d57875527407a03f86996cd36b51e2f07ac69d75702e",
+    "duplicate_of": null
+  },
+  {
+    "file": "Flame.mat",
+    "n": 240,
+    "d": 2,
+    "C": 2,
+    "labels": [
+      1,
+      2
+    ],
+    "counts": [
+      87,
+      153
+    ],
+    "transposed": false,
+    "sha256": "d5970d7dd41428bf59dd66668edccf4ff7586d1b235f6dc62ed636d983fb2444",
+    "content_hash": "b3f81f5179bb8bb96a7aa4dd92c204ad0dae5a6d7941fe5513eb907346022b45",
+    "duplicate_of": null
+  },
+  {
+    "file": "Pathbased.mat",
+    "n": 300,
+    "d": 2,
+    "C": 3,
+    "labels": [
+      1,
+      2,
+      3
+    ],
+    "counts": [
+      110,
+      97,
+      93
+    ],
+    "transposed": false,
+    "sha256": "913c89d24aeb95177c583ca5e24a29539d6e50de9ac375cac495f14848c3c3b8",
+    "content_hash": "68a245eb2ebd9885c3ec3d29878735a404c28bac448219e28aed72154fa68873",
+    "duplicate_of": null
+  },
+  {
+    "file": "R15.mat",
+    "n": 600,
+    "d": 2,
+    "C": 15,
+    "labels": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "counts": [
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40
+    ],
+    "transposed": false,
+    "sha256": "b20cae0be74602b818782f13d878e1afe69b487231c117ff03304e417266a038",
+    "content_hash": "245697ec2f265141a0cbd9b4be823ba36663d121dc51054d813a50e6620023ff",
+    "duplicate_of": null
+  },
+  {
+    "file": "S1.mat",
+    "n": 5000,
+    "d": 2,
+    "C": 15,
+    "labels": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "counts": [
+      300,
+      316,
+      314,
+      318,
+      325,
+      326,
+      334,
+      338,
+      341,
+      342,
+      347,
+      349,
+      350,
+      350,
+      350
+    ],
+    "transposed": false,
+    "sha256": "9885d8876aa09533a33466a9c7b90dffa20303c3e96329de47fae7e5557285be",
+    "content_hash": "91eb0c29d75d9090b9cfc52e68f8429bfdba439794801d7faaeec01895e8453b",
+    "duplicate_of": null
+  },
+  {
+    "file": "S2.mat",
+    "n": 5000,
+    "d": 2,
+    "C": 15,
+    "labels": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "counts": [
+      300,
+      317,
+      315,
+      320,
+      321,
+      329,
+      334,
+      333,
+      340,
+      345,
+      346,
+      350,
+      350,
+      350,
+      350
+    ],
+    "transposed": false,
+    "sha256": "6ae32072ca119ea612b9cf76d573caf861135b9c6a0c856248ceb4f7bf7b15c8",
+    "content_hash": "1ed0c94539991d0480517e6e73c7595e46033facd2e0adef3a9aa87f0afdf746",
+    "duplicate_of": null
+  },
+  {
+    "file": "S3.mat",
+    "n": 5000,
+    "d": 2,
+    "C": 15,
+    "labels": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "counts": [
+      300,
+      321,
+      316,
+      323,
+      322,
+      331,
+      333,
+      337,
+      334,
+      337,
+      346,
+      350,
+      350,
+      350,
+      350
+    ],
+    "transposed": false,
+    "sha256": "7245b675b1fc0781d6a211af1fe49088e3aae0da16c21a422cb7fcf1399d1e66",
+    "content_hash": "907f65aa2d0e6adc7039341ca5c03267416a7c379db09666bc00be3267d27e60",
+    "duplicate_of": null
+  },
+  {
+    "file": "S4.mat",
+    "n": 5000,
+    "d": 2,
+    "C": 15,
+    "labels": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "counts": [
+      300,
+      316,
+      327,
+      320,
+      323,
+      324,
+      327,
+      336,
+      337,
+      344,
+      347,
+      350,
+      349,
+      350,
+      350
+    ],
+    "transposed": false,
+    "sha256": "aa2729a5928f674384f3b0c9afee6c9491eea93e390b1bc04d678fac5e46c44a",
+    "content_hash": "4fd2c832ddc0fe9b24d0e47d88741269c12339e18d035da89a8126f1c4bff0f5",
+    "duplicate_of": null
+  },
+  {
+    "file": "Spiral.mat",
+    "n": 312,
+    "d": 2,
+    "C": 3,
+    "labels": [
+      1,
+      2,
+      3
+    ],
+    "counts": [
+      101,
+      105,
+      106
+    ],
+    "transposed": false,
+    "sha256": "56cb7e70cc1cd1fda0e96b9daecc43888d6ab3f3205eddc0d50ba160eca5aa7f",
+    "content_hash": "ab466f0a5162d2d880558e744de201cdddd1b3edbf57f974f170d0e2d3a9b705",
+    "duplicate_of": null
+  },
+  {
+    "file": "aggregation.mat",
+    "n": 788,
+    "d": 2,
+    "C": 7,
+    "labels": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "counts": [
+      45,
+      170,
+      102,
+      273,
+      34,
+      130,
+      34
+    ],
+    "transposed": false,
+    "sha256": "7672e2e35a4f9d6aa1d3f68a8b7dcd746b9d2b332dd4d4dd698158ca5238c7bb",
+    "content_hash": "53ad571b9826940d5a487e6f899b9bd9a3d084185503686a4144384acb154763",
+    "duplicate_of": null
+  },
+  {
+    "file": "aml28.mat",
+    "n": 804,
+    "d": 2,
+    "C": 5,
+    "labels": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "counts": [
+      548,
+      91,
+      45,
+      102,
+      18
+    ],
+    "transposed": false,
+    "sha256": "21868331cfea247f76dd473c36abc8e37ec412261fe9dd7fa2395e1e64b5aa02",
+    "content_hash": "6d0c695bee8015409f57da8f87e485e99307224fed58d07a6dd8aa119348fcf2",
+    "duplicate_of": null
+  },
+  {
+    "file": "atom.mat",
+    "n": 800,
+    "d": 3,
+    "C": 2,
+    "labels": [
+      1,
+      2
+    ],
+    "counts": [
+      400,
+      400
+    ],
+    "transposed": false,
+    "sha256": "6bfdc52e8e4bf9c6582d5f83018d8ce72518b433a0672d68a34d01ed048a03c0",
+    "content_hash": "92aee08fc966e412822f400b05ff45779ff9eeac1e193197c3af2701b7d42cc1",
+    "duplicate_of": null
+  },
+  {
+    "file": "banana.mat",
+    "n": 4811,
+    "d": 2,
+    "C": 2,
+    "labels": [
+      1,
+      2
+    ],
+    "counts": [
+      2520,
+      2291
+    ],
+    "transposed": false,
+    "sha256": "07a906269fe4afd9d136fa3a56e0ae7e84f8d27ff46625044e81d85c5e009356",
+    "content_hash": "710d1f066ec1ab5ece5061b88f5b6328497b48a2f4788d3b05e48e2a9caaa830",
+    "duplicate_of": null
+  },
+  {
+    "file": "blobs.mat",
+    "n": 300,
+    "d": 2,
+    "C": 3,
+    "labels": [
+      0,
+      1,
+      2
+    ],
+    "counts": [
+      100,
+      100,
+      100
+    ],
+    "transposed": false,
+    "sha256": "c937c3e7a2fa01dad3eed489dab0efe1e43b7159586c1e288d59c013a3a726a7",
+    "content_hash": "3f5c1ab9d5e8f32e9971fc97f435ea4625ad57480a200629259cfe3b297a6737",
+    "duplicate_of": null
+  },
+  {
+    "file": "chainlink.mat",
+    "n": 1000,
+    "d": 3,
+    "C": 2,
+    "labels": [
+      1,
+      2
+    ],
+    "counts": [
+      500,
+      500
+    ],
+    "transposed": false,
+    "sha256": "1d4e9a23caa8979a4946af1880cc329c275351f783abf3445e3485e9e88dd6ab",
+    "content_hash": "3f5e4caf25e5b12558145e86aeab5580cedffe06029dadbdfd403feab086c142",
+    "duplicate_of": null
+  },
+  {
+    "file": "circle.mat",
+    "n": 1000,
+    "d": 2,
+    "C": 2,
+    "labels": [
+      1,
+      2
+    ],
+    "counts": [
+      521,
+      479
+    ],
+    "transposed": false,
+    "sha256": "7120cc0bfda59c9006f853c9c712415fbbc57eee727e2722a2c2de7e03d43e5b",
+    "content_hash": "880185de9837eb2a550c0af9fa60014dac116c781b3a283ab59c529e7ca58700",
+    "duplicate_of": null
+  },
+  {
+    "file": "clusterincluster.mat",
+    "n": 1012,
+    "d": 2,
+    "C": 2,
+    "labels": [
+      0,
+      1
+    ],
+    "counts": [
+      500,
+      512
+    ],
+    "transposed": false,
+    "sha256": "62f2800e69811484021785a4f2a4d6612fb0c30447bb244e93bb004bd1bd2e00",
+    "content_hash": "d4704367c7815f30221162b3852b0a6792ea083e301586d0205837066de7154d",
+    "duplicate_of": null
+  },
+  {
+    "file": "cluto-t4-8k.mat",
+    "n": 8000,
+    "d": 2,
+    "C": 7,
+    "labels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      100
+    ],
+    "counts": [
+      1762,
+      1640,
+      647,
+      1568,
+      641,
+      978,
+      764
+    ],
+    "transposed": false,
+    "sha256": "857a1e01491b47cbe6fb6336881c8fa3a8c937191a7e5b4901c2331734c999b3",
+    "content_hash": "2f72b4ff6fb0488ae7726f6de5a5a0651081270bb64c7f004aeea7b4ed11faa8",
+    "duplicate_of": null
+  },
+  {
+    "file": "cluto-t5-8k.mat",
+    "n": 8000,
+    "d": 2,
+    "C": 7,
+    "labels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      100
+    ],
+    "counts": [
+      1173,
+      1053,
+      1198,
+      1163,
+      1206,
+      1054,
+      1153
+    ],
+    "transposed": false,
+    "sha256": "4ff2dfa24809917adcc329273e276a48b458d6d8fc4cedfd7c9b43e4e0f47915",
+    "content_hash": "50a028c027d4940ba11c0fe0989bbd2bb8b784805ec77b9772cc1074b5ba25a5",
+    "duplicate_of": null
+  },
+  {
+    "file": "cluto-t7-10k.mat",
+    "n": 10000,
+    "d": 2,
+    "C": 10,
+    "labels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      100
+    ],
+    "counts": [
+      269,
+      2230,
+      611,
+      625,
+      346,
+      335,
+      2758,
+      994,
+      1040,
+      792
+    ],
+    "transposed": false,
+    "sha256": "274043954e744d626c6158e42370adc807ce1dad5b1139b9bbb8e2df631e3e5b",
+    "content_hash": "13c6d8e27fcfd0cfe2032e366ebdd519f9d26b65c260c81cc75216c3dc8441e2",
+    "duplicate_of": null
+  },
+  {
+    "file": "cluto-t8-8k.mat",
+    "n": 8000,
+    "d": 2,
+    "C": 9,
+    "labels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      100
+    ],
+    "counts": [
+      1112,
+      1455,
+      182,
+      351,
+      1393,
+      1452,
+      175,
+      1557,
+      323
+    ],
+    "transposed": false,
+    "sha256": "11a0b9a1eabdd0613651013663bd7fd99e33aceb05cbf608f6b1429acbd2ce76",
+    "content_hash": "218403680fc69aa7e34428a278ea347d110afe73d104ed414167912c4ed94189",
+    "duplicate_of": null
+  },
+  {
+    "file": "complex8.mat",
+    "n": 2551,
+    "d": 2,
+    "C": 8,
+    "labels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "counts": [
+      60,
+      58,
+      519,
+      483,
+      121,
+      369,
+      484,
+      457
+    ],
+    "transposed": false,
+    "sha256": "5cf0e78d90093fd2892b18d05805c72142f33db98b356b19981359c1f3a5a6f2",
+    "content_hash": "75f57d8b27d1279c3f5ef3424ea58103e6a825177cd9026f9846ef35c2bfa73a",
+    "duplicate_of": null
+  },
+  {
+    "file": "complex9.mat",
+    "n": 3031,
+    "d": 2,
+    "C": 9,
+    "labels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "counts": [
+      87,
+      113,
+      110,
+      204,
+      198,
+      343,
+      906,
+      328,
+      742
+    ],
+    "transposed": false,
+    "sha256": "01caac6408710a4964bc6361d8f16aa4acda76a88adcdfed822e4bef61f02155",
+    "content_hash": "32a91eeee78058155dcc226e0696acb75df85f342a8608982c18eb4aaba4bc94",
+    "duplicate_of": null
+  },
+  {
+    "file": "compound2.mat",
+    "n": 399,
+    "d": 2,
+    "C": 6,
+    "labels": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "counts": [
+      50,
+      92,
+      38,
+      45,
+      158,
+      16
+    ],
+    "transposed": false,
+    "sha256": "fa043c12824e85c5d0d176ea9d597206d9c6a54965d508fb89642ed9c70f8f2d",
+    "content_hash": "dae36952b45348583f9e17a04a24433e5e3b7269df6ddc3d35e5ca5829f220ef",
+    "duplicate_of": null
+  },
+  {
+    "file": "corners.mat",
+    "n": 1000,
+    "d": 2,
+    "C": 4,
+    "labels": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "counts": [
+      250,
+      250,
+      250,
+      250
+    ],
+    "transposed": false,
+    "sha256": "41bc104efba392f164a9a1d469f47c65946547b04cfb9e6f7eeaf089021d1092",
+    "content_hash": "1213f98901dd2a398602b9286d0c886d532bf3d7b55eaf1fd6160ed12a02fe9b",
+    "duplicate_of": null
+  },
+  {
+    "file": "crescentfullmoon.mat",
+    "n": 1000,
+    "d": 2,
+    "C": 2,
+    "labels": [
+      1,
+      2
+    ],
+    "counts": [
+      250,
+      750
+    ],
+    "transposed": false,
+    "sha256": "bfb834e7e1f25d84aa290f012a32761a4116a52c8387b45aba1a6a5eb02985a3",
+    "content_hash": "2ddd07d4dc4413b0ca6a6608c28e6c0c1401db80d114d7d16de4f5676730912d",
+    "duplicate_of": null
+  },
+  {
+    "file": "crossline.mat",
+    "n": 1000,
+    "d": 2,
+    "C": 2,
+    "labels": [
+      1,
+      2
+    ],
+    "counts": [
+      497,
+      503
+    ],
+    "transposed": false,
+    "sha256": "289cfc61121c2fdc83a6bc603e92d4d9da0f8757e4f0b60320501c154f26f872",
+    "content_hash": "3511d8d06b482babb68df14779119464fa6b8350e46e80eec33363443cb38c4c",
+    "duplicate_of": null
+  },
+  {
+    "file": "cure-t2-4k.mat",
+    "n": 4200,
+    "d": 2,
+    "C": 7,
+    "labels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "counts": [
+      1760,
+      400,
+      400,
+      600,
+      600,
+      240,
+      200
+    ],
+    "transposed": false,
+    "sha256": "0b04fa592e43b19e9005a0754b17f573c2a576d94f2a04885508d108f29b681a",
+    "content_hash": "dabf0057b770edb52791c785de42a9c779f14b3caa80927f1df6c30c5d8b322c",
+    "duplicate_of": null
+  },
+  {
+    "file": "cure-t2-4k1.mat",
+    "n": 4000,
+    "d": 2,
+    "C": 6,
+    "labels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "counts": [
+      1760,
+      400,
+      400,
+      600,
+      600,
+      240
+    ],
+    "transposed": false,
+    "sha256": "170eef616f51c0c22c5cac4029a74a550f2158e2731abf9cd8b9cce332354ced",
+    "content_hash": "32b86bcef9bd5cad9be2c0022befdc565f046ea6d307ea4cfe565a45253d99e4",
+    "duplicate_of": null
+  },
+  {
+    "file": "curves1.mat",
+    "n": 1000,
+    "d": 2,
+    "C": 2,
+    "labels": [
+      0,
+      1
+    ],
+    "counts": [
+      500,
+      500
+    ],
+    "transposed": false,
+    "sha256": "b526aab7a782fb74478cb77c7764021616357f3fef7e419da9725b6db97e4fb6",
+    "content_hash": "378a43eb1fd41f350e97e49ab7ed9fac0bca875a12a0a367515a646c526def8a",
+    "duplicate_of": null
+  },
+  {
+    "file": "curves2.mat",
+    "n": 1000,
+    "d": 2,
+    "C": 2,
+    "labels": [
+      0,
+      1
+    ],
+    "counts": [
+      500,
+      500
+    ],
+    "transposed": false,
+    "sha256": "921531c582d97839dd26a8ad90ce81e63043740a460b2f6ddebbac94f1910af4",
+    "content_hash": "ce706ddbad49aaa8f80dc0b3589f7f41db7ee1cb422737303ee36d350233a4bd",
+    "duplicate_of": null
+  },
+  {
+    "file": "dartboard1.mat",
+    "n": 1000,
+    "d": 2,
+    "C": 4,
+    "labels": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "counts": [
+      250,
+      250,
+      250,
+      250
+    ],
+    "transposed": false,
+    "sha256": "d3f18097b77ecac25322773ec6d93dba1a6ee1385640bfa2a16360cc2292a4ea",
+    "content_hash": "8c73ffe8817eee0b5c9089f917676de3af292a04328c47164e5a8cebda8b0cd9",
+    "duplicate_of": null
+  },
+  {
+    "file": "dartboard2.mat",
+    "n": 1000,
+    "d": 2,
+    "C": 4,
+    "labels": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "counts": [
+      250,
+      250,
+      250,
+      250
+    ],
+    "transposed": false,
+    "sha256": "53bbb0665890370b284bac901da942371832fe1bc0ac00e75ef23a5d23fa52f7",
+    "content_hash": "3e6af9713feb13f1961fa04dfe0401910da95cea3d1beba7c46feb18138558c9",
+    "duplicate_of": null
+  },
+  {
+    "file": "diamond9.mat",
+    "n": 3000,
+    "d": 2,
+    "C": 9,
+    "labels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "counts": [
+      333,
+      334,
+      333,
+      333,
+      334,
+      333,
+      333,
+      334,
+      333
+    ],
+    "transposed": false,
+    "sha256": "e726fdb98cdd83f6b0b6ec60d947e9144060ff4e48f6f45579e458bd94421455",
+    "content_hash": "70387141b5e71783af43dabd6c4a660dbb39e8f9f32c0829b9f5a188f628f871",
+    "duplicate_of": null
+  },
+  {
+    "file": "disk-1000n.mat",
+    "n": 1000,
+    "d": 2,
+    "C": 2,
+    "labels": [
+      0,
+      1
+    ],
+    "counts": [
+      700,
+      300
+    ],
+    "transposed": false,
+    "sha256": "28e8ddbd959402b6c1e6c0dcb408d67bbd89406eddd8cee0427d4c665f57f518",
+    "content_hash": "523c83a48bea998ba5e70728f03c51dffda0489008a0b2b46cde732bbe07600d",
+    "duplicate_of": null
+  },
+  {
+    "file": "donut3.mat",
+    "n": 999,
+    "d": 2,
+    "C": 3,
+    "labels": [
+      0,
+      1,
+      2
+    ],
+    "counts": [
+      333,
+      333,
+      333
+    ],
+    "transposed": false,
+    "sha256": "cf8f9ac6d542a94c94c94013cc0d3d30359dcf76e497de3a70d13775a0144d47",
+    "content_hash": "f9ed0078a1be7d4fb05889c49f71460c8ce4a626804a7b7f8fb56880225b39a9",
+    "duplicate_of": null
+  },
+  {
+    "file": "donutcurves.mat",
+    "n": 1000,
+    "d": 2,
+    "C": 4,
+    "labels": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "counts": [
+      250,
+      250,
+      250,
+      250
+    ],
+    "transposed": false,
+    "sha256": "58e6176437a281e9258e7ce4b4df9ce10209e18c6a2dd7ec804a3374f00979ba",
+    "content_hash": "44fd3687c90048d8966941dd8d1ad0a3f5c7fb96b98cb438a5c70d7668e55dc0",
+    "duplicate_of": null
+  },
+  {
+    "file": "dpb.mat",
+    "n": 4000,
+    "d": 2,
+    "C": 6,
+    "labels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      100
+    ],
+    "counts": [
+      1553,
+      476,
+      590,
+      156,
+      568,
+      657
+    ],
+    "transposed": false,
+    "sha256": "86100b2385e21a9fdd7b0e06fcfa0960e3d97407cebac1a0965e5207255c78b5",
+    "content_hash": "8e5a0bb14a58077172d40bd07e1b0461b8e57da44e0e70470a0e3d73ed5b5cad",
+    "duplicate_of": null
+  },
+  {
+    "file": "five_affine_subspaces.mat",
+    "n": 700,
+    "d": 2,
+    "C": 5,
+    "labels": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "counts": [
+      200,
+      200,
+      100,
+      100,
+      100
+    ],
+    "transposed": true,
+    "sha256": "97d762f75511f8d3e4117588b2897102d5af8e7ceec2c46965991daa19e27587",
+    "content_hash": "265ff66f28337107295e62cf79e58a8ff66297f329b93ef320afe02f33db781a",
+    "duplicate_of": null
+  },
+  {
+    "file": "flame.mat",
+    "n": 240,
+    "d": 2,
+    "C": 2,
+    "labels": [
+      1,
+      2
+    ],
+    "counts": [
+      87,
+      153
+    ],
+    "transposed": false,
+    "sha256": "3a088babb29aee4fe2cbf52dc07adb0a09ef2ac2caea712bddd846761a16ba32",
+    "content_hash": "b3f81f5179bb8bb96a7aa4dd92c204ad0dae5a6d7941fe5513eb907346022b45",
+    "duplicate_of": "Flame.mat"
+  },
+  {
+    "file": "halfkernel.mat",
+    "n": 1000,
+    "d": 2,
+    "C": 2,
+    "labels": [
+      1,
+      2
+    ],
+    "counts": [
+      500,
+      500
+    ],
+    "transposed": false,
+    "sha256": "22355fc9afb718a982ea226de632e0945cbe346deb76d1d2a5517f01440a3285",
+    "content_hash": "37ec169b91785ea2247ae4340ec61da824784595ac120e2929fde362c7382760",
+    "duplicate_of": null
+  },
+  {
+    "file": "hybrid.mat",
+    "n": 2500,
+    "d": 3,
+    "C": 3,
+    "labels": [
+      1,
+      2,
+      3
+    ],
+    "counts": [
+      1000,
+      500,
+      1000
+    ],
+    "transposed": false,
+    "sha256": "ddcf0bddf8d6d4205ec2812ca8b3503c9ec46ede9f99137c026643ab24ed2ea2",
+    "content_hash": "0ef9f109e7e484d32903fbf760b2ab4f878c6da0b2043ae8e5491afac011947e",
+    "duplicate_of": null
+  },
+  {
+    "file": "jain.mat",
+    "n": 373,
+    "d": 2,
+    "C": 2,
+    "labels": [
+      1,
+      2
+    ],
+    "counts": [
+      276,
+      97
+    ],
+    "transposed": false,
+    "sha256": "c61fbbf821d5b20d6a9ab211a1fba1fb2a60feca3ff682903f998f6de73ba8f1",
+    "content_hash": "ef7a94f35c66492b1bf20f8dc82d219afba8838bad41df58a57d834488eb1e3a",
+    "duplicate_of": null
+  },
+  {
+    "file": "outlier.mat",
+    "n": 600,
+    "d": 2,
+    "C": 4,
+    "labels": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "counts": [
+      276,
+      24,
+      24,
+      276
+    ],
+    "transposed": false,
+    "sha256": "e29323f4c1792f12a63aece8b519fa9de283b5a1b45c638901d375f47f3221e2",
+    "content_hash": "77ceea6e2142b1f047ea0cc9ec84c6f20b52d31705c2b4033a097f89897a8832",
+    "duplicate_of": null
+  },
+  {
+    "file": "pathbased.mat",
+    "n": 300,
+    "d": 2,
+    "C": 3,
+    "labels": [
+      1,
+      2,
+      3
+    ],
+    "counts": [
+      110,
+      97,
+      93
+    ],
+    "transposed": false,
+    "sha256": "3fbf9f5463f30e1d6b6a9270dd06f5b733849f2618002445875521c1afbdaa51",
+    "content_hash": "68a245eb2ebd9885c3ec3d29878735a404c28bac448219e28aed72154fa68873",
+    "duplicate_of": "Pathbased.mat"
+  },
+  {
+    "file": "pearl.mat",
+    "n": 1000,
+    "d": 2,
+    "C": 2,
+    "labels": [
+      1,
+      2
+    ],
+    "counts": [
+      498,
+      502
+    ],
+    "transposed": false,
+    "sha256": "193958fbede4198c04a7dc866643eeac64b35bcdd2b3e79d8265cadd850b7ec6",
+    "content_hash": "fa8909f2d8ca1f85cf779bef301cfdd14f7b95b5cb317ae7ea1e9c89a9d1c2bd",
+    "duplicate_of": null
+  },
+  {
+    "file": "rings.mat",
+    "n": 1000,
+    "d": 2,
+    "C": 3,
+    "labels": [
+      0,
+      1,
+      2
+    ],
+    "counts": [
+      343,
+      322,
+      335
+    ],
+    "transposed": false,
+    "sha256": "67b853ac16cf5033a233f4b945500f26303598c737aed04536f066ab088c84c7",
+    "content_hash": "309e1650df819b753d579bf15f622c0cf2e770d7eefbde2df11e863b52012426",
+    "duplicate_of": null
+  },
+  {
+    "file": "smile2.mat",
+    "n": 1000,
+    "d": 2,
+    "C": 4,
+    "labels": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "counts": [
+      100,
+      200,
+      300,
+      400
+    ],
+    "transposed": false,
+    "sha256": "976e59125e46aa95069fe1f0b5c4b1db24b1373302e3143934348c0de130e4e3",
+    "content_hash": "cfbbd9d613de31e00a5e67ccee03630da466325590b0c501676303e8267f57ca",
+    "duplicate_of": null
+  },
+  {
+    "file": "spiral.mat",
+    "n": 312,
+    "d": 2,
+    "C": 3,
+    "labels": [
+      1,
+      2,
+      3
+    ],
+    "counts": [
+      101,
+      105,
+      106
+    ],
+    "transposed": false,
+    "sha256": "18a24c1021d0fee0e68e1270daa55e2adb2f22d10ea5d90bc4d82ab4b0739aef",
+    "content_hash": "ab466f0a5162d2d880558e744de201cdddd1b3edbf57f974f170d0e2d3a9b705",
+    "duplicate_of": "Spiral.mat"
+  },
+  {
+    "file": "spiralsquare.mat",
+    "n": 1500,
+    "d": 2,
+    "C": 6,
+    "labels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "counts": [
+      125,
+      126,
+      126,
+      123,
+      500,
+      500
+    ],
+    "transposed": false,
+    "sha256": "1808928998b6cd02574226d8f0d6df48bac6481d6a4977f106ea0c3686d8d73f",
+    "content_hash": "51ca252901901ee10ce4f57504bc8f4f5bd5fd9e907a356f478a213949970131",
+    "duplicate_of": null
+  },
+  {
+    "file": "target.mat",
+    "n": 770,
+    "d": 2,
+    "C": 6,
+    "labels": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "counts": [
+      395,
+      363,
+      3,
+      3,
+      3,
+      3
+    ],
+    "transposed": false,
+    "sha256": "c7e159cbcb6423e2c7ac297d6901dbfa0917badeff3a2df4539d8ecc5c7f1969",
+    "content_hash": "528a4f64965ff2454fabac027798dc83aacfdf66fa18b8a3b524bb74757537bd",
+    "duplicate_of": null
+  },
+  {
+    "file": "three_linear_planes.mat",
+    "n": 1200,
+    "d": 3,
+    "C": 3,
+    "labels": [
+      1,
+      2,
+      3
+    ],
+    "counts": [
+      400,
+      400,
+      400
+    ],
+    "transposed": false,
+    "sha256": "b6745a2156fd78f914ed9a5714249296cae65ba9d9ae7b8859f8931476ac9a52",
+    "content_hash": "3f5d78973dd6b430cddf33edf22881f9f824c9a98a7b1de47fbc52511f401579",
+    "duplicate_of": null
+  },
+  {
+    "file": "twenty.mat",
+    "n": 1000,
+    "d": 2,
+    "C": 20,
+    "labels": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "counts": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+    ],
+    "transposed": false,
+    "sha256": "74c924efc78301b8706644e4808b343b40c122398a1ef691a3c250180b5dce8c",
+    "content_hash": "379f39aa386bce7a3cc208b1623a535615886c0160ff6b56f6f6c18c07ea4c5e",
+    "duplicate_of": null
+  },
+  {
+    "file": "twomoon.mat",
+    "n": 180,
+    "d": 3,
+    "C": 2,
+    "labels": [
+      1,
+      2
+    ],
+    "counts": [
+      90,
+      90
+    ],
+    "transposed": false,
+    "sha256": "d64d8485f3ef87be6e662b19edb0ef9d2f7fdc9e898e93dbaff503c0e10d6977",
+    "content_hash": "e0e02fc7abdee10d0ee7a086d9f8d9530b85e40f23312de6934f19012b41d14f",
+    "duplicate_of": null
+  },
+  {
+    "file": "zelink1.mat",
+    "n": 299,
+    "d": 2,
+    "C": 3,
+    "labels": [
+      0,
+      1,
+      2
+    ],
+    "counts": [
+      61,
+      139,
+      99
+    ],
+    "transposed": false,
+    "sha256": "982fd5a559774da6122e9f784a0c30301592da005438d941943bfc97193b8be0",
+    "content_hash": "8c4df5773fab7cd5e1205d2cf89f6bda3c9048ad91233a08aa2e1b7b129d2f2f",
+    "duplicate_of": null
+  },
+  {
+    "file": "zelink3.mat",
+    "n": 266,
+    "d": 2,
+    "C": 3,
+    "labels": [
+      0,
+      1,
+      3
+    ],
+    "counts": [
+      75,
+      73,
+      118
+    ],
+    "transposed": false,
+    "sha256": "722f522f0452b59dcce73784d41fa935141052bb1e51974db7aced714d392c98",
+    "content_hash": "fb0cc81c1adfba9614d9f738c33241621637fc3a41725265d68bf09e52640ce0",
+    "duplicate_of": null
+  },
+  {
+    "file": "zelink6.mat",
+    "n": 238,
+    "d": 2,
+    "C": 3,
+    "labels": [
+      0,
+      1,
+      2
+    ],
+    "counts": [
+      82,
+      100,
+      56
+    ],
+    "transposed": false,
+    "sha256": "e28bb8cb205ebcdb2ed57f9321c666c88ac70c18fbfe9c4daebd985a15a03319",
+    "content_hash": "408412342248ea3a007dd7072c38c358d6d76b60db8513c859c85bcd967e941b",
+    "duplicate_of": null
+  }
+]

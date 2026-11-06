@@ -61,6 +61,11 @@ Mean ARI across the same 73 datasets: original DPC 0.5727; center selection only
 
 Both figures are provided in scalable SVG format.
 
+
+## Benchmark
+
+See [benchmark/README.md](benchmark/README.md) for the synthetic dataset manifest, four-way ablation runner, archived reference metrics, and aggregate plotting scripts. Verify input hashes before reproducing the 73-dataset comparison.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
